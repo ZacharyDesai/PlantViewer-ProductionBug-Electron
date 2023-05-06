@@ -75,7 +75,7 @@
     "@bentley/presentation-common": "1.0.0",
     "@bentley/presentation-components": "1.0.0",
     "@bentley/presentation-frontend": "1.0.0",
-    "@bentley/presentation-testing": "1.0.0",
+    "@bentley/presentation-testing": "2.19.53",
     "@bentley/ui-components": "1.0.0",
     "@bentley/ui-core": "1.0.0",
     "@types/styled-components": "^4.1.16",
@@ -100,7 +100,7 @@
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
-    "@bentley/build-tools": "1.0.0",
+    "@bentley/build-tools": "2.19.53",
     "@bentley/webpack-tools": "1.0.0",
     "@types/body-parser": "^1.17",
     "@types/bunyan": "^1.8",
@@ -127,7 +127,7 @@
     "react-testing-library": "^5.3.2",
     "rimraf": "^2.6.2",
     "sinon": "^7.2.0",
-    "spectron": "^5.0.0",
+    "spectron": "^19.0.0",
     "start-server-and-test": "^1.7.11",
     "strip-json-comments-cli": "^1.0.1",
     "ts-node": "^7.0.1",
